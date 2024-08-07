@@ -25,7 +25,7 @@ Trendz is a full-stack social media application built with the MERN stack and Ne
 ### Home Page
 - A visually appealing home page displaying the latest threads to keep users engaged.
 
-### Create Thread Page
+### Create Trend Page
 - Enables users to create new threads, fostering community engagement.
 
 ### Commenting Feature
@@ -64,8 +64,8 @@ Trendz is a full-stack social media application built with the MERN stack and Ne
 ## Screenshots
 **Note:** Include screenshots here.
 
-1. ![Home Page](path/to/homepage_screenshot.png)
-2. ![Create Thread Page](path/to/create_thread_page_screenshot.png)
-3. ![Commenting Feature](path/to/commenting_feature_screenshot.png)
-4. ![Profile Page](path/to/profile_page_screenshot.png)
-5. ![Community Management](path/to/community_management_screenshot.png)
+1. ![Home Page](https://github.com/brianondemand/Trendz/blob/main/public/screen/Screen1.png)
+2. ![Create Trend Page](https://github.com/brianondemand/Trendz/blob/main/public/screen/Screen3.png)
+3. ![Profile Page](https://github.com/brianondemand/Trendz/blob/main/public/screen/Screen4.png)
+4. ![Commenting Feature](https://github.com/brianondemand/Trendz/blob/main/public/screen/Screen5.png)
+5. ![Search Function](https://github.com/brianondemand/Trendz/blob/main/public/screen/Screen2.png)
